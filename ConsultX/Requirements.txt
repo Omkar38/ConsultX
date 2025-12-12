@@ -1,0 +1,24 @@
+# Core deep learning / transformers
+torch
+transformers
+sentence-transformers
+
+# RAG / vector store stack
+langchain
+langchain-community
+chromadb
+
+# Data / ML utilities
+datasets
+scikit-learn
+numpy
+
+# Validation / schemas
+pydantic
+
+# Google Gemini client
+google-generativeai
+
+# (Optional) API server if you run backend/app.py
+fastapi
+uvicorn[standard]
